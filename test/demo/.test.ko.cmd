@@ -1,0 +1,1 @@
+cmd_/home/sourabh/Documents/os-project-two/csc501_project2/demo/test.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sourabh/Documents/os-project-two/csc501_project2/demo/test.ko /home/sourabh/Documents/os-project-two/csc501_project2/demo/test.o /home/sourabh/Documents/os-project-two/csc501_project2/demo/test.mod.o
